@@ -1,0 +1,13 @@
+/*
+*Wendy Mayo
+*2/25/2019
+*Project 01 - Recipe
+*/
+
+/* The universal selector */
+*{
+}
+/* Body attributes here */
+body { 
+    background-color: lightgoldenrodyellow;
+}
